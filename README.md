@@ -1,4 +1,4 @@
-# 👋 Angel Benit Veronica
+# Hi 👋 I'm Angel Benit Veronica
 
 🎓 Data Analyst | AI & Automation Enthusiast | Coder  
 🎨 Power BI • SQL • Python • Tableau  
